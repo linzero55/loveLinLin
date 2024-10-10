@@ -1,9 +1,9 @@
-new TypeIt("#lywry", {
+new TypeIt("#linzewu", {
         loop: true,
         cursorSpeed: 1000,
         speed: 100
     })
-    .type("LY && WRY")
+    .type("ChenJieLin")
     .pause(2000)
     .delete(null, {
         delay: 500
@@ -12,7 +12,7 @@ new TypeIt("#lywry", {
     .pause(3000)
     .go();
 
-new TypeIt('#talkToWRY', {
+new TypeIt('#talkToLinLin', {
     lifeLike: true,
     cursorSpeed: 1000,
     waitUntilVisible: true,
